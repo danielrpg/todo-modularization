@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "todo-modularized"
+  "defaultProject": "todo-modularized",
+  "cli": {
+    "analytics": false
+  }
 }
